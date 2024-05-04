@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tanmay-Bhardwaj
-- 👀 I’m interested in AI and many programming languages like Python, C++, and many more
+- 👀 I’m interested in AI, Machine learning, hacking many programming languages like Python, C++, and many more
 - 🌱 I’m currently learning Machine learning and AI using Python.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects involving Python, Data analytics using Tableau, PowerBI, Ethical Hacking, and much more.
 - 📫 You can reach me through my email(tanmaybhardwaj.jha@gmail.com), my website(tanmaybhardwaj.in), or discord(Tanmay Bhardwaj#8063)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 👉The first computer game was created in 1961 👉There are over 700 different programming languages 👉Python was not named after a snake
