@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through my email(tanmaybhardwaj.jha@gmail.com), my website(tanmaybhardwaj.in), or discord(Tanmay Bhardwaj#8063)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: 👉The first computer game was created in 1961 👉There are over 700 different programming languages 👉Python was not named after a snake
 
 <!---
 Tanmay-Bhardwaj/Tanmay-Bhardwaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
